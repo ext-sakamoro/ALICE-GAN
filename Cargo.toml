@@ -2,7 +2,7 @@
 name = "alice-gan"
 version = "1.0.0"
 edition = "2021"
-authors = ["Moroya Sakamoto"]
+authors = ["Moroya Sakamoto <sakamoro@alicelaw.net>"]
 license = "MIT OR Apache-2.0"
 description = "Generative Adversarial Networks — pure Rust GAN framework"
 
