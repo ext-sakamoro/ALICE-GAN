@@ -59,4 +59,6 @@ cargo clippy -- -W clippy::all
 
 ## ライセンス
 
-MIT OR Apache-2.0 — 詳細は [LICENSE](LICENSE) を参照。
+`LicenseRef-Proprietary` 条文は [LICENSE-Proprietary](LICENSE-Proprietary)
+
+Enquiries: https://extoria.co.jp/
